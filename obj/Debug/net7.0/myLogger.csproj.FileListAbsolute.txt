@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\The Jitu Repo\myLogger\obj\Debug\net7.0\myLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\The Jitu Repo\myLogger\obj\Debug\net7.0\myLogger.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\The Jitu Repo\myLogger\obj\Debug\net7.0\myLogger.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\The Jitu Repo\myLogger\obj\Debug\net7.0\myLogger.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\The Jitu Repo\myLogger\bin\Debug\net7.0\myLogger.exe
+C:\Users\Administrator\Desktop\The Jitu Repo\myLogger\bin\Debug\net7.0\myLogger.deps.json
+C:\Users\Administrator\Desktop\The Jitu Repo\myLogger\bin\Debug\net7.0\myLogger.runtimeconfig.json
+C:\Users\Administrator\Desktop\The Jitu Repo\myLogger\bin\Debug\net7.0\myLogger.dll
+C:\Users\Administrator\Desktop\The Jitu Repo\myLogger\bin\Debug\net7.0\myLogger.pdb
+C:\Users\Administrator\Desktop\The Jitu Repo\myLogger\obj\Debug\net7.0\myLogger.dll
+C:\Users\Administrator\Desktop\The Jitu Repo\myLogger\obj\Debug\net7.0\refint\myLogger.dll
+C:\Users\Administrator\Desktop\The Jitu Repo\myLogger\obj\Debug\net7.0\myLogger.pdb
+C:\Users\Administrator\Desktop\The Jitu Repo\myLogger\obj\Debug\net7.0\myLogger.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\The Jitu Repo\myLogger\obj\Debug\net7.0\ref\myLogger.dll
