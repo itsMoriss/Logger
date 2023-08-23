@@ -29,7 +29,7 @@ namespace myLogger
                 sw.Write("\r\nLog Entry: ");
                 sw.WriteLine("{0} {1}", DateTime.Now.ToLongTimeString(), DateTime.Now.ToLongDateString());
                 sw.WriteLine("  :{0}", Message);
-                sw.WriteLine("---------------------------------------");
+                sw.WriteLine("-------------------------------------------------");
             }
         }
     }
